@@ -1,0 +1,46 @@
+2020-07-25 20:01:35,478 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-26 16:55:51,743 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-26 17:00:06,128 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: usuarioingles:usuario-ingles:0.0.1-SNAPSHOT @ C:\Git usuario-ingles\ingles-usuario\usuario-ingles\pom.xml.
+2020-07-26 17:00:10,560 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usuario-ingles/src/main/java
+2020-07-26 17:00:10,562 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usuario-ingles/src/main/resources
+2020-07-26 17:00:10,589 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usuario-ingles/src/main/resources
+2020-07-26 17:00:10,602 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usuario-ingles/src/test/java
+2020-07-26 17:00:11,718 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2020-07-26 17:00:11,723 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-26 17:00:12,403 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: usuarioingles:usuario-ingles:0.0.1-SNAPSHOT @ C:\Git usuario-ingles\ingles-usuario\usuario-ingles\pom.xml.
+2020-07-26 17:00:13,343 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usuario-ingles/src/main/java
+2020-07-26 17:00:13,344 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usuario-ingles/src/main/resources
+2020-07-26 17:00:13,345 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usuario-ingles/src/main/resources
+2020-07-26 17:00:13,346 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usuario-ingles/src/test/java
+2020-07-26 17:00:13,742 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-07-26 17:00:15,908 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:00:15,915 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 17:00:15,950 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 17:00:15,956 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:00:15,956 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git usuario-ingles\ingles-usuario\usuario-ingles\src\test\resources
+2020-07-26 17:01:49,025 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:01:49,030 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 17:01:49,032 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 17:01:49,036 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:01:49,037 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git usuario-ingles\ingles-usuario\usuario-ingles\src\test\resources
+2020-07-26 17:03:41,755 [Worker-14: Launching usuario-ingles - UsuarioInglesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:03:41,758 [Worker-14: Launching usuario-ingles - UsuarioInglesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 17:03:41,759 [Worker-14: Launching usuario-ingles - UsuarioInglesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 17:03:41,763 [Worker-14: Launching usuario-ingles - UsuarioInglesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:03:41,764 [Worker-14: Launching usuario-ingles - UsuarioInglesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git usuario-ingles\ingles-usuario\usuario-ingles\src\test\resources
+2020-07-26 17:25:50,177 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:25:50,218 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 17:25:50,221 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 17:25:50,224 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 17:25:50,224 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git usuario-ingles\ingles-usuario\usuario-ingles\src\test\resources
+2020-07-26 20:01:36,272 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.deluxebc:deluxebc:0.0.1-SNAPSHOT @ C:\Users\INTEL\Downloads\sourse\deluxebc\pom.xml.
+2020-07-26 20:01:43,778 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 20:01:43,778 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 20:01:43,857 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 20:01:43,861 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 20:01:43,862 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\INTEL\Downloads\sourse\deluxebc\src\test\resources
+2020-07-26 20:01:52,016 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 20:01:52,017 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 20:01:52,018 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 20:01:52,022 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 20:01:52,022 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\INTEL\Downloads\sourse\deluxebc\src\test\resources
