@@ -1,55 +1,47 @@
 package usuarioingles.model.entity;
 
 import java.io.Serializable;
-import java.util.List;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.NamedQuery;
-import javax.persistence.OneToMany;
+import javax.persistence.Table;
 
-/**
- * The persistent class for the usuario database table.
- */
 
-@Entity 
-@NamedQuery(name="Usuario.findall",query="SELECT u FROM Usuario u ")
+@Entity
+@Table (name="Usuario")
 public class Usuario implements Serializable {
+
+	/**
+	 * 
+	 */
 	private static final long serialVersionUID = 1L;
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name="usuario_id")
-	private int usuarioId;
+	private int usuario_id;
 	
 	private int rol_id;
 	
 	private String email;
 	
-	private int password;
+	private String password;
 	
 	private String nombre;
 	
 	private String apellido;
 	
+	@Column(name="estado")
 	private String estado;
-	
-	//bi-directional many-to-one association to Rol
-	@OneToMany(mappedBy ="Usuario")
-	private List<Rol> rold;
-	
-	public Usuario() {
+
+	public int getUsuario_id() {
+		return usuario_id;
 	}
 
-	public int getUsuarioId() {
-		return usuarioId;
-	}
-
-	public void setUsuarioId(int usuarioId) {
-		this.usuarioId = usuarioId;
+	public void setUsuario_id(int usuario_id) {
+		this.usuario_id = usuario_id;
 	}
 
 	public int getRol_id() {
@@ -68,11 +60,11 @@ public class Usuario implements Serializable {
 		this.email = email;
 	}
 
-	public int getPassword() {
+	public String getPassword() {
 		return password;
 	}
 
-	public void setPassword(int password) {
+	public void setPassword(String password) {
 		this.password = password;
 	}
 
@@ -100,13 +92,8 @@ public class Usuario implements Serializable {
 		this.estado = estado;
 	}
 
-	public List<Rol> getRol1() {
-		return rol1;
+	public static long getSerialversionuid() {
+		return serialVersionUID;
 	}
-
-	public void setRol1(List<Rol> rol1) {
-		this.rol1 = rol1;
-	}	
-	
-
+			
 }
